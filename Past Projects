@@ -2,7 +2,7 @@ My list of past projects that I've ever done
 
 1)MediaPlayer2014:
 https://github.com/BattleHoundCat/MediaPlayer2014
-I made this project in VB.net. 
+I made this project in VB.net. Sorting music to 3 different categories
 
 2) EPAM projets:
 https://github.com/BattleHoundCat/EPAM
@@ -12,6 +12,8 @@ https://github.com/BattleHoundCat/EPAM
 3) Projects that I made besides EPAM internship 
 https://github.com/BattleHoundCat/Practice
 
---MultiThreadApp
+--MultiThreadApp 
+(practice with Multithreading topic)
 
---SumDurationVideo
+--SumDurationVideo 
+(sums the duration of all video files in the target folder)
